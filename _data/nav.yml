@@ -1,0 +1,26 @@
+- title: "Home"
+  href: "/"
+
+- title: "News"
+  href: "/news/"
+
+- title: "Member"
+  href: "/member/"
+  
+- title: "Project"
+  href: "/project/"
+  
+- title: "Publication"
+  href: "/publication/"
+      
+- title: "Recruit"
+  href: "http://tom.ky/recruit/"
+  
+- title: "External"
+  external-subcategories:
+    - subtitle: "Chih-Yu (Tomky) Wang"
+      subhref: "http://tom.ky"
+    - subtitle: "CITI"
+      subhref: "https://citi.sinica.edu.tw/"
+    - subtitle: "Academia Sinica"
+      subhref: "https://www.sinica.edu.tw"
