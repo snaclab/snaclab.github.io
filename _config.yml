@@ -43,7 +43,7 @@ permalink: /news/:year/:title
 
 #### SEO Stuff
 # Google Analytics
-google_universal_analytics: 
+google_universal_analytics: UA-68174559-1
 google_universal_analytics_cookiedomain: auto
 
 # Facebook Opengraph
