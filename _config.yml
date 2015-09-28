@@ -1,5 +1,6 @@
 # Site settings
-name: Strategic Networking Laboratory
+name: Strategic Networking and Communications Laboratory
+nickname: SNAClab
 email: cywang@citi.sinica.edu.tw
 author: Chih-Yu Wang
 
@@ -8,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Witty description here.
 
 baseurl: 
-url: https://snlab.github.io
+url: https://snaclab.github.io
 
 header: yes
 header_sm: images/banner-small.jpg
