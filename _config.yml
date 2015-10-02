@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Witty description here.
 
 baseurl: 
-url: https://snaclab.github.io
+url: https://snaclab.citi.sinica.edu.tw
 
 header: yes
 header_sm: images/banner-small.jpg
