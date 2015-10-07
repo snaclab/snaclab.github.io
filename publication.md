@@ -40,6 +40,8 @@ permalink: /publication/
 
 1.	Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Mode Selection and Spectrum Partitioning in Overlay D2D-Enabled Network," IEEE Globecom Workshop on Heterogeneous Carrier Communication Technologies (HetCarrierCom), San Diego, CA, USA, December 2015.
 
+1. Fang-Li Kung, **Chih-Yu Wang**, "Choose Early or Choose Wisely - A Chinese Restaurant Game Approach," 9th EAI International Conference on Bio-inspired Information and Communications Technologies (BICT 2015), New York, NY, USA, December 2015.
+
 2.	Cheng-Chih Chao, Chia-Han Lee, Hung-Yu Wei, **Chih-Yu Wang**, Wen-Tsuen Chen, "Distributed Dynamic-TDD Resource Allocation in Femtocell Networks Using Evolutionary Game," IEEE PIMRC, August 2015.
 
 3.	Bo-Yuan Huang, Shih-Tang Su, **Chih-Yu Wang**, Che-Wei Yeh, Hung-Yu Wei, "Resource Allocation in D2D Communication - A Game Theoretic Approach," IEEE ICC 2014 Workshop on M2M Communication, Sydney, Australia, June 2014.
@@ -73,4 +75,3 @@ permalink: /publication/
 17.	Che-Liang Liu, **Chih-Yu Wang**, Hung-Yu Wei, "Mobile Chord: Enhancing P2P Application Performance over Vehicular Ad Hoc Network," The 3rd IEEE Workshop on Automotive Networking and Applications. (AutoNet 2008). Co-located with IEEE GLOBECOM 2008 (invited paper), New Orleans, USA, December 2008.
 
 18.	**Chih-Yu Wang**, Kuo-Tung Hong, Hung-Yu Wei, "Nash Bargaining Solution for Cooperative Shared-Spectrum WLAN Networks," IEEE PIMRC 2007, Athens, Greece, September 2007.
- 
