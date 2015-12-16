@@ -22,6 +22,8 @@ Yuan-Yao Shih <ckm@citi.sinica.edu.tw>
 
 Fang-Li Kung <marykv1@citi.sinica.edu.tw>
 
+Wei-Chong Chen <viamshit@citi.sinica.edu.tw>
+
 # Student
 
 ----------------
@@ -39,6 +41,5 @@ Shang-Hong Hsu (Department of Computer Science, National Cheng-Hua University)
 # Alumni
 
 ----------------
-
 
 Jing-Yi Shi (Department of Computer Science, National Cheng-Hua University)
