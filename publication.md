@@ -5,6 +5,8 @@ permalink: /publication/
 ---
 ### Journal
 
+1. 	**Chih-Yu Wang**, Hung-Yu Wei, Wen-Tsuen Chen, "Resource Block Allocation with Carrier-Aggregation: A Strategy-Proof Auction Design," to appear in IEEE Transactions on Mobile Computing.
+
 1.	**Chih-Yu Wang**, Chun-Han Ko, Hung-Yu Wei, Athanasios V. Vasilakos, "A Voting-based Femtocell Downlink Cell-Breathing Control Mechanism," to appear in IEEE-ACM Transactions on Networking.
 
 2.	Yan Chen, Chunxiao Jiang, **Chih-Yu Wang**, Yang Gao, K. J. Ray Liu, "Decision Learning: Data Analytic Learning with Strategic Decision Making," to appear in IEEE Signal Processing Magazine.
