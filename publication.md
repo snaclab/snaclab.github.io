@@ -11,9 +11,10 @@ permalink: /publication/
 
 1.	**Chih-Yu Wang**, Chun-Han Ko, Hung-Yu Wei, Athanasios V. Vasilakos, "A Voting-based Femtocell Downlink Cell-Breathing Control Mechanism," to appear in IEEE-ACM Transactions on Networking.
 
-2.	Yan Chen, Chunxiao Jiang, **Chih-Yu Wang**, Yang Gao, K. J. Ray Liu, "Decision Learning: Data Analytic Learning with Strategic Decision Making," to appear in IEEE Signal Processing Magazine.
+1. Yan Chen, Chunxiao Jiang, **Chih-Yu Wang**, Yang Gao, K. J. Ray Liu,"Decision Learning: Data Analytic Learning with Strategic Decision Making," IEEE Signal Processing Magazine, volume 33, number 1, pages 37-56, ﻿January 2016.
 
-3.	Biling Zhang, Yan Chen, **Chih-Yu Wang**, K.J. Ray Liu, "A Chinese Restaurant Game for Learning and Decision Making in Cognitive Radio Networks with Single Channel Sensing," to appear in Computer Networks.
+5.	Biling Zhang, Yan Chen, **Chih-Yu Wang**, K.J. Ray Liu,"A Chinese Restaurant Game for Learning and Decision Making in Cognitive Radio Networks," Computer Networks, volume 91, pages 117-134, ﻿November 2015.
+
 
 4.	**Chih-Yu Wang**, Yan Chen, Hung-Yu Wei, K. J. Ray Liu, "Scalable Video Multicasting: A Stochastic Game Approach with Optimal Pricing," IEEE Transactions on Wireless Communications, volume 14, number 5, pages 2353-2367, May 2015.
 
