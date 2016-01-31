@@ -32,6 +32,8 @@ Wei-Chong Chen <viamshit@citi.sinica.edu.tw>
 
 Fredrick Awuor (TIGP SNHCC)
 
+Lan-Yi Liu (Department of Economics, National Taiwan University)
+
 ## Master (co-advise)
 
 Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan University)
