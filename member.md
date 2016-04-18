@@ -24,6 +24,8 @@ Fang-Li Kung <marykv1@citi.sinica.edu.tw>
 
 Wei-Chong Chen <viamshit@citi.sinica.edu.tw>
 
+Yi-Hsuan Hung <smily1124@citi.sinica.edu.tw>
+
 # Student
 
 ----------------
@@ -39,6 +41,8 @@ Lan-Yi Liu (Department of Economics, National Taiwan University)
 Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan University)
 
 Shang-Hong Hsu (Department of Computer Science, National Cheng-Hua University)
+
+Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
 
 # Alumni
 
