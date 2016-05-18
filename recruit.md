@@ -6,7 +6,7 @@ alert: true
 fb_img: /images/dindin.png
 
 ---
-<img src="../images/dindin.png" alt="photo" />
+<img src="../images/dindin.png" alt="photo" style="max-width: 800px" />
 
 I'm seeking passionate researchers/students who would like to tackle the challenges in wireless network and social networks. Specifically, I'm interested in the following directions:
 
