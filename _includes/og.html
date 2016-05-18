@@ -1,0 +1,14 @@
+<meta property="og:site_name" content="{{site.name}}" />
+{% if page.title %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{site.name}} - {{ page.title }}" />
+  <meta property="og:description" content="{{ page.content | strip_html  | strip_newlines | truncate: 300 }}" />
+  {% if page.fb_img %}<meta property="og:image" content="{{ site.url }}{{ page.fb_img }}" />{% else %}<meta property="og:image" content="{{ site.url }}{{ site.fb_img }}" />{% endif %}
+{% else %}
+  <meta property="og:url" content="{{ site.url }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{site.name}}" />
+  <meta property="og:description" content="{{ site.description | strip_html | strip_newlines }}" />
+  <meta property="og:image" content="{{ site.url }}{{ site.fb_img }}" />
+{% endif %}

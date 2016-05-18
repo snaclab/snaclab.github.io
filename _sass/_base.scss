@@ -8,7 +8,7 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-/** 
+/**
 * make hr more concise
 */
 
@@ -31,11 +31,14 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 100%;
+    max-width: 800px;
     vertical-align: middle;
 }
 
-
+img.center {
+    display: block;
+    margin: 0 auto;
+}
 
 /**
  * Figures

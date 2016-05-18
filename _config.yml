@@ -8,7 +8,7 @@ keywords: game theory, networking, communication, data, information, citi, sinic
 description: > # this means to ignore newlines until "baseurl:"
   Witty description here.
 
-baseurl: 
+baseurl:
 url: https://snaclab.citi.sinica.edu.tw
 
 header: yes
@@ -17,7 +17,7 @@ header_med: images/banner-med.jpg
 header_large: images/banner-large.jpg
 header_xl: images/banner-xl.jpg
 
-
+fb_img: images/site_fb_img.png
 # Exclude our ruby stuff
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
 
@@ -35,7 +35,7 @@ gems:
 
 feed:
   path: atom.xml
-  
+
 # Compress our Css
 #sass:
 #    style: :compressed
@@ -55,6 +55,6 @@ facebook_page:                        #the URL of your Facebook Page
 facebook_image:                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Twitter Cards
-twitter_user: 
-twitter_card: true
+twitter_user:
+twitter_card: false
 twitter_image:                        #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
