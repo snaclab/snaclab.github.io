@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Recruit 徵才
+title: Recruit
 permalink: /recruit/
 alert: true
 fb_img: /images/dindin.png
 
 ---
-<img src="../images/dindin.png" alt="photo" style="max-width: 800px" />
+<img src="../images/dindin.png" alt="photo" style="max-width: 700px" />
 
-I'm seeking passionate researchers/students who would like to tackle the challenges in wireless network and social networks. Specifically, I'm interested in the following directions:
+We are seeking passionate researchers/students who would like to tackle the challenges in wireless network and social networks. Specifically, we are interested in the following directions:
 
 * Emerging techniques in 5G communications
 * Influence, competition, and collaboration in social networks
@@ -24,7 +24,7 @@ I'm seeking passionate researchers/students who would like to tackle the challen
 > Requirements: Ph.D. degree in EE/CS  
 > Salary: About USD 2000 / month
 
-To apply for the above positions in [{{ site.labname }}]({{ site.laburl }}), [CITI, Academia Sinica](http://citi.sinica.edu.tw), please send your C.V. to <cywang@citi.sinica.edu.tw>.
+To apply for the above positions in {{ site.name }}, [CITI, Academia Sinica](http://citi.sinica.edu.tw), please send your C.V. to <cywang@citi.sinica.edu.tw>.
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
