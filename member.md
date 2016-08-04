@@ -34,6 +34,8 @@ Yi-Hsuan Hung <smily1124@citi.sinica.edu.tw>
 
 Fredrick Awuor (TIGP SNHCC)
 
+Khurshed Ali (TIGP SNHCC)
+
 Lan-Yi Liu (Department of Economics, National Taiwan University)
 
 ## Master (co-advise)
