@@ -26,6 +26,8 @@ Wei-Chong Chen <viamshit@citi.sinica.edu.tw>
 
 Yi-Hsuan Hung <smily1124@citi.sinica.edu.tw>
 
+Shih-Ying Chen <sychen0618@citi.sinica.edu.tw>
+
 # Student
 
 ----------------
