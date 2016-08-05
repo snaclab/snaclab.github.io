@@ -42,8 +42,6 @@ Lan-Yi Liu (Department of Economics, National Taiwan University)
 
 ## Master (co-advise)
 
-Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan University)
-
 Shang-Hong Hsu (Department of Computer Science, National Cheng-Hua University)
 
 Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
@@ -53,3 +51,5 @@ Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
 ----------------
 
 Jing-Yi Shi (Department of Computer Science, National Cheng-Hua University)
+
+Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan University)
