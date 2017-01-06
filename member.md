@@ -28,6 +28,8 @@ Yi-Hsuan Hung <smily1124@citi.sinica.edu.tw>
 
 Shih-Ying Chen <sychen0618@citi.sinica.edu.tw>
 
+Tzu-Yuan Chung <tzuyuan@citi.sinica.edu.tw>
+
 # Student
 
 ----------------

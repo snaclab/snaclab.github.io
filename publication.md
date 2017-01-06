@@ -7,10 +7,9 @@ permalink: /publication/
 
 1. Shih-Tang Su, Bo-Yuan Huang, **Chih-Yu Wang**, Che-Wei Yeh, Hung-Yu Wei, "Protocol Design and Game Theoretic Solutions for Device-to-Device Radio Resource Allocation," to appear in IEEE Transactions on Vehicular Technology.
 
+1. **Chih-Yu Wang**, Guan-Yu Lin, Ching-Chun Chou, Che-Wei Yeh, Hung-Yu Wei, "Device-to-Device Communication in LTE-Advanced System: A Strategy-proof Resource Exchange Framework," IEEE Transactions on Vehicular Technology, volume 65, number 12, pages 10022-10036, December 2016.
 
-1. **Chih-Yu Wang**, Guan-Yu Lin, Ching-Chun Chou, Che-Wei Yeh, Hung-Yu Wei, "Device-to-Device Communication in LTE-Advanced System: A Strategy-proof Resource Exchange Framework," to appear in IEEE Transactions on Vehicular Technology.
-
-1. 	**Chih-Yu Wang**, Hung-Yu Wei, Wen-Tsuen Chen, "Resource Block Allocation with Carrier-Aggregation: A Strategy-Proof Auction Design," to appear in IEEE Transactions on Mobile Computing.
+1. **Chih-Yu Wang**, Hung-Yu Wei, Wen-Tsuen Chen, “Resource Block Allocation with Carrier-Aggregation: A Strategy-Proof Auction Design,” IEEE Transactions on Mobile Computing, volume 15, number 12, pages 3142-3155, December 2016.
 
 1.	**Chih-Yu Wang**, Chun-Han Ko, Hung-Yu Wei, Athanasios V. Vasilakos, "A Voting-based Femtocell Downlink Cell-Breathing Control Mechanism," to appear in IEEE-ACM Transactions on Networking.
 
