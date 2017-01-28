@@ -45,6 +45,9 @@ permalink: /publication/
 
 ### Conference
 
+1. Shang-Hong Hsu, Chih-Han Lin, **Chih-Yu Wang**, W. T. Chen, "Minimizing Upload Latency for Critical Tasks in Cellular-based IoT Networks using Multiple Relays," IEEE ICC 2017, Paris, France, May 2017.
+
+
 1. Fredrick Awuor, **Chih-Yu Wang**, "Massive Machine Type Communication in Cellular System: A Distributed Queue Approach," IEEE ICC 2016, Kuala Lumpur, Malaysia, May 2016.
 
 1.	Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Mode Selection and Spectrum Partitioning in Overlay D2D-Enabled Network," IEEE Globecom Workshop on Heterogeneous Carrier Communication Technologies (HetCarrierCom), San Diego, CA, USA, December 2015.
