@@ -4,6 +4,7 @@ title: publication
 permalink: /publication/
 ---
 ### Journal
+1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, "Hidden Chinese Restaurant Game: Grand Information Extraction for Stochastic Network Learning," to appear in IEEE Transactions on Signal and Information Processing over Networks.
 
 1. Shih-Tang Su, Bo-Yuan Huang, **Chih-Yu Wang**, Che-Wei Yeh, Hung-Yu Wei, "Protocol Design and Game Theoretic Solutions for Device-to-Device Radio Resource Allocation," to appear in IEEE Transactions on Vehicular Technology.
 
