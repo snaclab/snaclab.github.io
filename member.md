@@ -22,8 +22,6 @@ Yuan-Yao Shih <ckm@citi.sinica.edu.tw>
 
 Fang-Li Kung <marykv1@citi.sinica.edu.tw>
 
-Wei-Chong Chen <viamshit@citi.sinica.edu.tw>
-
 Yi-Hsuan Hung <smily1124@citi.sinica.edu.tw>
 
 Shih-Ying Chen <sychen0618@citi.sinica.edu.tw>
@@ -42,9 +40,18 @@ Khurshed Ali (TIGP SNHCC)
 
 Lan-Yi Liu (Department of Economics, National Taiwan University)
 
+## Ph.D. (co-advise)
+
+Cheng-Chih Chao (Department of Electrical Engineering, National Taiwan University)
+
+Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan University)
+
+
 ## Master (co-advise)
 
-Shang-Hong Hsu (Department of Computer Science, National Cheng-Hua University)
+Cheng-Hsun Han (Department of Computer Science, National Cheng-Hua University)
+
+Yi-Chun Lai (Department of Computer Science, National Cheng-Hua University)
 
 Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
 
@@ -52,6 +59,8 @@ Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
 
 ----------------
 
-Jing-Yi Shi (Department of Computer Science, National Cheng-Hua University)
+Wei-Chong Chen (Ph.D Program, Rice University)
 
-Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan University)
+Shang-Hong Hsu (China Telecom)
+
+Jing-Yi Shi (MediaTek)
