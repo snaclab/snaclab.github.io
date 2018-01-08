@@ -51,9 +51,12 @@ permalink: /publication/
 
 ### Conference
 
-1. Fredrick M Awuor, Chih-Yu Wang, Tzu-Chieh Tsai, “Motivating Content Sharing in Mobile Social Network through Collective Bidding,” IEEE WCNC 2018, Barcelona, Spain, April 2018.
 
-1. Yi-Hsuan Hung, Chih-Yu Wang, “Fog Micro Service Market: Promoting Fog Computing using Free Market Mechanism,” IEEE WCNC 2018, Barcelona, Spain, April 2018.
+1. Gao Zheng, **Chih-Yu Wang**, Vasilis Friderikos, Mischa Dohler, "High Mobility Multi Modal E-Health Services," IEEE ICC, Kansas City, MO, USA, May 2018
+
+1. Fredrick M Awuor, **Chih-Yu Wang**, Tzu-Chieh Tsai, “Motivating Content Sharing in Mobile Social Network through Collective Bidding,” IEEE WCNC 2018, Barcelona, Spain, April 2018.
+
+1. Yi-Hsuan Hung, **Chih-Yu Wang**, “Fog Micro Service Market: Promoting Fog Computing using Free Market Mechanism,” IEEE WCNC 2018, Barcelona, Spain, April 2018.
 
 
 1. Shang-Hong Hsu, Chih-Han Lin, **Chih-Yu Wang**, W. T. Chen, "Minimizing Upload Latency for Critical Tasks in Cellular-based IoT Networks using Multiple Relays," IEEE ICC 2017, Paris, France, May 2017.
