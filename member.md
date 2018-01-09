@@ -24,9 +24,9 @@ Fang-Li Kung <marykv1@citi.sinica.edu.tw>
 
 Yi-Hsuan Hung <smily1124@citi.sinica.edu.tw>
 
-Shih-Ying Chen <sychen0618@citi.sinica.edu.tw>
-
 Tzu-Yuan Chung <tzuyuan@citi.sinica.edu.tw>
+
+Yi-Shan Lin <yishanlin0128@citi.sinica.edu.tw>
 
 # Student
 
@@ -58,6 +58,8 @@ Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
 # Alumni
 
 ----------------
+
+Shih-Ying Chen (BoniO)
 
 Wei-Chong Chen (Ph.D Program, Rice University)
 
