@@ -5,6 +5,8 @@ permalink: /publication/
 ---
 ### Journal
 
+1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Overlay D2D System: A Group-Based Framework without CQI Feedback," to appear in IEEE Transactions on Mobile Computing.
+
 1. Chih-Yu Wang, Yan Chen, K.J. Ray Liu, "Game-Theoretic Cross Social Media Analytic: How Yelp Ratings Affect Deal Selection on Groupon?," to appear in IEEE Transactions on Knowledge and Data Engineering.
 
 1. Shang-Hong Hsu, Chi-Han Lin, **Chih-Yu Wang**, Wen-Tsuen Chen, "Breaking Bandwidth Limitation for Mission-Critical IoTs using Semi-Sequential Multiple Relays," to appear in IEEE Internet of Things Journal.
