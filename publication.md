@@ -53,8 +53,9 @@ permalink: /publication/
 
 ### Conference
 
-
 1. Gao Zheng, **Chih-Yu Wang**, Vasilis Friderikos, Mischa Dohler, "High Mobility Multi Modal E-Health Services," IEEE ICC, Kansas City, MO, USA, May 2018
+
+1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, “Game-Theoretic Cross Social Media Analytic: How Yelp Ratings Affect Deal Selection on Groupon?,” IEEE ICDE (TKDE Poster), Paris, France, April 2018
 
 1. Fredrick M Awuor, **Chih-Yu Wang**, Tzu-Chieh Tsai, “Motivating Content Sharing in Mobile Social Network through Collective Bidding,” IEEE WCNC 2018, Barcelona, Spain, April 2018.
 
