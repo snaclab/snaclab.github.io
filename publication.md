@@ -7,7 +7,7 @@ permalink: /publication/
 
 1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Overlay D2D System: A Group-Based Framework without CQI Feedback," to appear in IEEE Transactions on Mobile Computing.
 
-1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, "Game-Theoretic Cross Social Media Analytic: How Yelp Ratings Affect Deal Selection on Groupon?," to appear in IEEE Transactions on Knowledge and Data Engineering.
+1. Chih-Yu Wang, Yan Chen, K.J. Ray Liu, "Game-Theoretic Cross Social Media Analytic: How Yelp Ratings Affect Deal Selection on Groupon?," to appear in IEEE Transactions on Knowledge and Data Engineering.
 
 1. Shang-Hong Hsu, Chi-Han Lin, **Chih-Yu Wang**, Wen-Tsuen Chen, "Breaking Bandwidth Limitation for Mission-Critical IoTs using Semi-Sequential Multiple Relays," to appear in IEEE Internet of Things Journal.
 
@@ -53,7 +53,10 @@ permalink: /publication/
 
 ### Conference
 
+
 1. Gao Zheng, **Chih-Yu Wang**, Vasilis Friderikos, Mischa Dohler, "High Mobility Multi Modal E-Health Services," IEEE ICC, Kansas City, MO, USA, May 2018
+
+1. Yi-Hsuan Hung, **Chih-Yu Wang**, Ren-Hung Hwang, "Combinatorial Clock Auction for Live Video Streaming in Mobile Edge Computing," IEEE INFOCOM Workshop onIntegrating Edge Computing, Caching, and Offloading in Next Generation Networks (IECCO), Honolulu, HI, USA, April 2018.
 
 1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, “Game-Theoretic Cross Social Media Analytic: How Yelp Ratings Affect Deal Selection on Groupon?,” IEEE ICDE (TKDE Poster), Paris, France, April 2018
 
