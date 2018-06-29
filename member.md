@@ -10,11 +10,8 @@ permalink: /member/
 
 [Chih-Yu Wang](http://tom.ky) <cywang@citi.sinica.edu.tw>
 
-# Postdoctoral Fellow
 
------------------
 
-Yuan-Yao Shih <ckm@citi.sinica.edu.tw>
 
 # Research Assistant
 
@@ -49,8 +46,6 @@ Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan Unive
 
 ## Master (co-advise)
 
-Cheng-Hsun Han (Department of Computer Science, National Cheng-Hua University)
-
 Yi-Chun Lai (Department of Computer Science, National Cheng-Hua University)
 
 Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
@@ -58,6 +53,10 @@ Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
 # Alumni
 
 ----------------
+
+Yuan-Yao Shih 
+
+Cheng-Hsun Han
 
 Shih-Ying Chen (BoniO)
 

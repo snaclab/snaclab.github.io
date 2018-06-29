@@ -5,13 +5,14 @@ permalink: /publication/
 ---
 ### Journal
 
-1. Fredrick M Awour, **Chih-Yu Wang**, Tzu-Chieh Tsai, "Motivating Content Sharing and Trustworthiness in Mobile Social Network," to appear in IEEE Access
 
 1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Overlay D2D System: A Group-Based Framework without CQI Feedback," to appear in IEEE Transactions on Mobile Computing.
 
 1. Shang-Hong Hsu, Chi-Han Lin, **Chih-Yu Wang**, Wen-Tsuen Chen, "Breaking Bandwidth Limitation for Mission-Critical IoTs using Semi-Sequential Multiple Relays," to appear in IEEE Internet of Things Journal.
 
-1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, "Game-Theoretic Cross Social Media Analytic: How Yelp Ratings Affect Deal Selection on Groupon?," IEEE Transactions on Knowledge and Data Engineering, volume 30, number 5, pages 908-921, May 2018..
+1. Fredrick M Awour, **Chih-Yu Wang**, Tzu-Chieh Tsai, "Motivating Content Sharing and Trustworthiness in Mobile Social Network," IEEE Access, volume 6, number 1, pages 28339 - 28355, May 2019.
+
+1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, "Game-Theoretic Cross Social Media Analytic: How Yelp Ratings Affect Deal Selection on Groupon?," IEEE Transactions on Knowledge and Data Engineering, volume 30, number 5, pages 908-921, May 2018.
 
 1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, "Hidden Chinese Restaurant Game: Grand Information Extraction for Stochastic Network Learning," to appear in IEEE Transactions on Signal and Information Processing over Networks.
 
@@ -104,7 +105,7 @@ permalink: /publication/
 
 15.	**Chih-Yu Wang**, Wei-Ge Hsu, and Hung-Yu Wei, "A Game-Theoretical Model of Cognitive Relay," APSIPA ASC 2009, Sapporo, Japan, October 2009.
 
-16.	Chun-Wei Chen, **Chih-Yu Wang**, Shih-Lung Chao, Hung-Yu Wei, "DANCE: A Game-Theoretical Femtocell Channel Exchange Mechanism," ACM Mobicom 2009, Beijing, China, September 2009.
+16.	Chun-Wei Chen, **Chih-Yu Wang**, Shih-Lung Chao, Hung-Yu Wei, "DANCE: A Game-Theoretical Femtocell Channel Exchange Mechanism," ACM Mobicom 2009 (Poster), Beijing, China, September 2009.
 
 17.	Che-Liang Liu, **Chih-Yu Wang**, Hung-Yu Wei, "Mobile Chord: Enhancing P2P Application Performance over Vehicular Ad Hoc Network," The 3rd IEEE Workshop on Automotive Networking and Applications. (AutoNet 2008). Co-located with IEEE GLOBECOM 2008 (invited paper), New Orleans, USA, December 2008.
 
