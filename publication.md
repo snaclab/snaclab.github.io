@@ -56,6 +56,7 @@ permalink: /publication/
 
 ### Conference
 
+1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Overlay D2D System: A Group-Based Framework without CQI Feedback," to appear in IEEE Transactions on Mobile Computing.
 
 1. Gao Zheng, **Chih-Yu Wang**, Vasilis Friderikos, Mischa Dohler, "High Mobility Multi Modal E-Health Services," IEEE ICC, Kansas City, MO, USA, May 2018
 

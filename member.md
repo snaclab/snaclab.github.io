@@ -23,15 +23,12 @@ Yi-Hsuan Hung <smily1124@citi.sinica.edu.tw>
 
 Tzu-Yuan Chung <tzuyuan@citi.sinica.edu.tw>
 
-Yi-Shan Lin <yishanlin0128@citi.sinica.edu.tw>
 
 # Student
 
 ----------------
 
 ## Ph.D.
-
-Fredrick Awuor (TIGP SNHCC)
 
 Khurshed Ali (TIGP SNHCC)
 
@@ -46,7 +43,7 @@ Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan Unive
 
 ## Master (co-advise)
 
-Yi-Chun Lai (Department of Computer Science, National Cheng-Hua University)
+Cheng-Hsun Han (Department of Computer Science, National Cheng-Hua University)
 
 Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
 
@@ -54,7 +51,13 @@ Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
 
 ----------------
 
-Yuan-Yao Shih 
+Fredrick Awuor
+
+Yi-Shan Lin (Master Program, Northwestern University)
+
+Yi-Chun Lai
+
+Yuan-Yao Shih
 
 Cheng-Hsun Han
 
