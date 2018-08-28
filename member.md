@@ -17,11 +17,9 @@ permalink: /member/
 
 ----------------
 
+Lyle Wu <lyle60317@iis.sinica.edu.tw>
+
 Fang-Li Kung <marykv1@citi.sinica.edu.tw>
-
-Yi-Hsuan Hung <smily1124@citi.sinica.edu.tw>
-
-Tzu-Yuan Chung <tzuyuan@citi.sinica.edu.tw>
 
 
 # Student
@@ -43,23 +41,27 @@ Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan Unive
 
 ## Master (co-advise)
 
-Cheng-Hsun Han (Department of Computer Science, National Cheng-Hua University)
-
 Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
 
 # Alumni
 
 ----------------
 
+Chun-Lin Lai (M.S. Program, UCLA)
+
+Yi-Hsuan Hung (M.S. Program, UCLA)
+
+Tzu-Yuan Chung (Cyberlink)
+
+Cheng-Hsun Han (InforTrend)
+
 Fredrick Awuor
 
-Yi-Shan Lin (Master Program, Northwestern University)
+Yi-Shan Lin (M.S. Program, Northwestern University)
 
 Yi-Chun Lai
 
 Yuan-Yao Shih
-
-Cheng-Hsun Han
 
 Shih-Ying Chen (BoniO)
 
