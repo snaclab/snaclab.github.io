@@ -56,7 +56,7 @@ permalink: /publication/
 
 ### Conference
 
-1. Yi Zhang, Chih-Yu Wang, Hung-Yu Wei, "Parked Vehicle Assisted VFC System with Smart Parking: An Auction Approach," IEEE Globecom, Abu Dhabi, UAE, December 2018.
+1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Parked Vehicle Assisted VFC System with Smart Parking: An Auction Approach," IEEE Globecom, Abu Dhabi, UAE, December 2018.
 
 1. Khurshed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "Boosting Reinforcement Learning in Competitive Influence Maximization with Transfer Learning," IEEE/WIC/ACM International Conference on Web Intelligence (WI), Santiago, Chile, December 2018.
 
