@@ -6,9 +6,9 @@ permalink: /publication/
 ### Journal
 
 
-1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Overlay D2D System: A Group-Based Framework without CQI Feedback," to appear in IEEE Transactions on Mobile Computing.
-
 1. Shang-Hong Hsu, Chi-Han Lin, **Chih-Yu Wang**, Wen-Tsuen Chen, "Breaking Bandwidth Limitation for Mission-Critical IoTs using Semi-Sequential Multiple Relays," to appear in IEEE Internet of Things Journal.
+
+1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Overlay D2D System: A Group-Based Framework without CQI Feedback," IEEE Transactions on Mobile Computing, volume 17, number 9, pages 2069-2086, September 2018.
 
 1. Fredrick M Awour, **Chih-Yu Wang**, Tzu-Chieh Tsai, "Motivating Content Sharing and Trustworthiness in Mobile Social Network," IEEE Access, volume 6, number 1, pages 28339 - 28355, May 2019.
 
@@ -56,9 +56,11 @@ permalink: /publication/
 
 ### Conference
 
-1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Overlay D2D System: A Group-Based Framework without CQI Feedback," to appear in IEEE Transactions on Mobile Computing.
+1. Yi Zhang, Chih-Yu Wang, Hung-Yu Wei, "Parked Vehicle Assisted VFC System with Smart Parking: An Auction Approach," IEEE Globecom, Abu Dhabi, UAE, December 2018.
 
 1. Khurshed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "Boosting Reinforcement Learning in Competitive Influence Maximization with Transfer Learning," IEEE/WIC/ACM International Conference on Web Intelligence (WI), Santiago, Chile, December 2018.
+
+1. Szu-Liang Wang, **Chih-Yu Wang**, Wei-Ho Chung, "Exact Performance of NOMA with Full-Duplex Energy Harvesting Relaying in Nakagami-m Frequency-Selective Fading Channel," IEEE GlobalSIP, Anaheim, California, USA, November 2018.
 
 1. Gao Zheng, **Chih-Yu Wang**, Vasilis Friderikos, Mischa Dohler, "High Mobility Multi Modal E-Health Services," IEEE ICC, Kansas City, MO, USA, May 2018
 
