@@ -10,7 +10,7 @@ permalink: /publication/
 
 1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Overlay D2D System: A Group-Based Framework without CQI Feedback," IEEE Transactions on Mobile Computing, volume 17, number 9, pages 2069-2086, September 2018.
 
-1. Fredrick M Awour, **Chih-Yu Wang**, Tzu-Chieh Tsai, "Motivating Content Sharing and Trustworthiness in Mobile Social Network," IEEE Access, volume 6, number 1, pages 28339 - 28355, May 2018.
+1. Fredrick M Awuor, **Chih-Yu Wang**, Tzu-Chieh Tsai, "Motivating Content Sharing and Trustworthiness in Mobile Social Network," IEEE Access, volume 6, number 1, pages 28339 - 28355, May 2018.
 
 1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, "Game-Theoretic Cross Social Media Analytic: How Yelp Ratings Affect Deal Selection on Groupon?," IEEE Transactions on Knowledge and Data Engineering, volume 30, number 5, pages 908-921, May 2018.
 
