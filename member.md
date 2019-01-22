@@ -11,16 +11,27 @@ permalink: /member/
 [Chih-Yu Wang](http://tom.ky) <cywang@citi.sinica.edu.tw>
 
 
+# PostDoc
 
+Te-CHuang Chiu <theochiu@citi.sinica.edu.tw>
+
+Szu-Liang Wang <szuliangwang@iis.sinica.edu.tw>
 
 # Research Assistant
 
 ----------------
 
-Lyle Wu <lyle60317@iis.sinica.edu.tw>
+Chao-Lun Wu <allenwu@citi.sinica.edu.tw>
 
 Fang-Li Kung <marykv1@citi.sinica.edu.tw>
 
+Lyle Wu <lyle60317@iis.sinica.edu.tw>
+
+Tung-Chun Chang <tcchang@citi.sinica.edu.tw>
+
+Wei-Cheng Chen <jimmyweicc@citi.sinica.edu.tw>
+
+Wei-Yu Chen <wei8465@citi.sinica.edu.tw>
 
 # Student
 
@@ -38,10 +49,13 @@ Cheng-Chih Chao (Department of Electrical Engineering, National Taiwan Universit
 
 Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan University)
 
+## Intern
 
-## Master (co-advise)
+Po-Yu Chou (NTHU)
 
-Jun-Jie Chen (Department of Computer Science, National Cheng-Hua University)
+Sin-Yuan Huang (NTHU)
+
+Miao-CHin Yen (NTU)
 
 # Alumni
 
