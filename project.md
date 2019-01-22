@@ -3,6 +3,9 @@ layout: page
 title: project
 permalink: /project/
 ---
+
+The PI’s research philosophy is to conduct research that has theoretic foundation and impact on emerging social networking research and wireless network standards. In recent years, the PI focuses on network simulation platform, game theoretic model for wireless networks, and social learning framework for social networks. The aim of our research is to achieve both academic value and industrial impact.
+
 # Novel Learning-based Framework for Rational Sequential Decision Making in Wireless and Social Networks with Practical Applications
 
 Traditionally, the network configuration and management problem are usually treated as optimization problems. The system status and resources are treated as constraints with all configurable parameters and actions of users as decision variables in a snapshot. This approach relies on assumptions that the status of the system is known and remains unchanged, and all decision variables can be controlled by the network managers or operators at the same time. These assumptions are impractical in real world networks where network status and users constantly change, and each user makes their decision on their own willingness, at different timing, with different amount of knowledge. The traditional snapshot approach will lead to poor performance in these networks. In this work, we aim to design general decision making frameworks to properly capture these new characteristics in order to improve the system performance and prediction accuracy.
