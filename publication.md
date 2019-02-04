@@ -9,6 +9,10 @@ permalink: /publication/
 
 ### Journal
 
+1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Parking Reservation Auction for Parked Vehicle Assistance in Vehicular Fog Computing," to appear in IEEE Transactions on Vehicular Technology.
+
+1. 	Khurshed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "A Novel Nested Q-Learning Method to Tackle Time-Constrained Competitive Influence Maximization," IEEE Access, volume 7, pages 6337 - 6352, December 2018.
+
 1. Shang-Hong Hsu, Chi-Han Lin, **Chih-Yu Wang**, Wen-Tsuen Chen, "Breaking Bandwidth Limitation for Mission-Critical IoTs using Semi-Sequential Multiple Relays," IEEE Internet of Things Journal, volume 5, number 5, pages 3316-3329, October 2018.
 
 1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Incentive Compatible Overlay D2D System: A Group-Based Framework without CQI Feedback," IEEE Transactions on Mobile Computing, volume 17, number 9, pages 2069-2086, September 2018.
