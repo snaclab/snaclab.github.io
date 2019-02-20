@@ -9,6 +9,8 @@ permalink: /publication/
 
 ### Journal
 
+1. Yi-Hsuan Hung, **Chih-Yu Wang**, Ren-Hung Hwang, "Optimizing Social Welfare of Live Video Streaming Services in Mobile Edge Computing," to appear in Transactions on Mobile Computing.
+
 1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Parking Reservation Auction for Parked Vehicle Assistance in Vehicular Fog Computing," to appear in IEEE Transactions on Vehicular Technology.
 
 1. 	Khurshed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "A Novel Nested Q-Learning Method to Tackle Time-Constrained Competitive Influence Maximization," IEEE Access, volume 7, pages 6337 - 6352, December 2018.
