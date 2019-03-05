@@ -69,13 +69,13 @@ Tzu-Yuan Chung (Cyberlink)
 
 Cheng-Hsun Han (InforTrend)
 
-Fredrick Awuor
+Fredrick Awuor (Kisii University)
 
 Yi-Shan Lin (M.S. Program, Northwestern University)
 
 Yi-Chun Lai
 
-Yuan-Yao Shih
+Yuan-Yao Shih (National Chung Cheng University)
 
 Shih-Ying Chen (BoniO)
 
