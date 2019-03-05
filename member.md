@@ -13,9 +13,9 @@ permalink: /member/
 
 # PostDoc
 
-Te-CHuang Chiu <theochiu@citi.sinica.edu.tw>
+Te-Chuang Chiu <theochiu@citi.sinica.edu.tw>
 
-Szu-Liang Wang <szuliangwang@iis.sinica.edu.tw>
+Thieu Quang Tuan <tuanthieu@citi.sinica.edu.tw>
 
 # Research Assistant
 
@@ -24,8 +24,6 @@ Szu-Liang Wang <szuliangwang@iis.sinica.edu.tw>
 Chao-Lun Wu <allenwu@citi.sinica.edu.tw>
 
 Fang-Li Kung <marykv1@citi.sinica.edu.tw>
-
-Lyle Wu <lyle60317@iis.sinica.edu.tw>
 
 Tung-Chun Chang <tcchang@citi.sinica.edu.tw>
 
@@ -60,6 +58,8 @@ Miao-CHin Yen (NTU)
 # Alumni
 
 ----------------
+
+Szu-Liang Wang (Chinese Academy of Science)
 
 Chun-Lin Lai (M.S. Program, UCLA)
 
