@@ -13,7 +13,7 @@ permalink: /member/
 
 # PostDoc
 
-Te-Chuang Chiu <theochiu@citi.sinica.edu.tw>
+Te-Chuan Chiu <theochiu@citi.sinica.edu.tw>
 
 Thieu Quang Tuan <tuanthieu@citi.sinica.edu.tw>
 
@@ -69,7 +69,7 @@ Tzu-Yuan Chung (Cyberlink)
 
 Cheng-Hsun Han (InforTrend)
 
-Fredrick Awuor (Kisii University)
+Fredrick Awuor (Masinde Muliro University of Science and Technology, Kakamega)
 
 Yi-Shan Lin (M.S. Program, Northwestern University)
 
