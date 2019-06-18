@@ -67,6 +67,10 @@ permalink: /publication/
 
 ### Conference
 
+1.	Tzu-Yuan Chung, Khurshed Ali, **Chih-Yu Wang**, "Deep Reinforcement Learning-based Approach to Tackle Competitive Influence Maximization," SIGKDD Workshop: International Workshop on Mining and Learning with Graphs, August 2019.
+
+1. Wei-Cheng Chen, **Chih-Yu Wang**, Su-Chen Lin, Alex Ou, Tzu-Chiang Liou, "PSAC: Context-based Purchase Prediction Framework via User's Sequential Actions," SIGIR Workshop on eCommerce, Paris, France, July 2019.
+
 1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Parked Vehicle Assisted VFC System with Smart Parking: An Auction Approach," IEEE Globecom, Abu Dhabi, UAE, December 2018.
 
 1. Khurshed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "Boosting Reinforcement Learning in Competitive Influence Maximization with Transfer Learning," IEEE/WIC/ACM International Conference on Web Intelligence (WI), Santiago, Chile, December 2018.
