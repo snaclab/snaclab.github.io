@@ -11,7 +11,7 @@ permalink: /publication/
 
 1. Yuan-Yao Shih, **Chih-Yu Wang**, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
 
-1. Yi-Hsuan Hung, **Chih-Yu Wang**, Ren-Hung Hwang, "Optimizing Social Welfare of Live Video Streaming Services in Mobile Edge Computing," to appear in Transactions on Mobile Computing.
+1. Yi-Hsuan Hung, **Chih-Yu Wang**, Ren-Hung Hwang, "Optimizing Social Welfare of Live Video Streaming Services in Mobile Edge Computing," to appear in IEEE Transactions on Mobile Computing.
 
 1. Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Parking Reservation Auction for Parked Vehicle Assistance in Vehicular Fog Computing," to appear in IEEE Transactions on Vehicular Technology.
 
@@ -66,6 +66,8 @@ permalink: /publication/
 
 
 ### Conference
+
+1. Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Live Video Streaming with Joint User Association and Caching Placement in Mobile Edge Computing," IEEE ICNC, Big Island, Hawaii, USA, February 2020.
 
 1.	Tzu-Yuan Chung, Khurshed Ali, **Chih-Yu Wang**, "Deep Reinforcement Learning-based Approach to Tackle Competitive Influence Maximization," SIGKDD Workshop: International Workshop on Mining and Learning with Graphs, August 2019.
 
