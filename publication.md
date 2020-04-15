@@ -9,14 +9,13 @@ permalink: /publication/
 
 ### Journal
 
-1. Cheng-Chih Chao, Chih-Yu Wang, Chia-Han Lee, Hung-Yu Wei, Wen-Tsuen Chen, "Pair Auction and Matching for Resource Allocation in Full- Duplex Cellular Systems," to appear in IEEE Transactions on Vehicular Technology.
+1. Cheng-Chih Chao, **Chih-Yu Wang**, Chia-Han Lee, Hung-Yu Wei, Wen-Tsuen Chen, "Pair Auction and Matching for Resource Allocation in Full- Duplex Cellular Systems," to appear in IEEE Transactions on Vehicular Technology.
 
-1.	Yi-Hsuan Hung, Chih-Yu Wang, Ren-Hung Hwang, "Optimizing Social Welfare of Live Video Streaming Services in Mobile Edge
-Computing," to appear in IEEE Transactions on Mobile Computing.
+1.	Yuan-Yao Shih, **Chih-Yu Wang**, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
 
-1.	Yuan-Yao Shih, Chih-Yu Wang, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
+1.	Yi-Hsuan Hung, **Chih-Yu Wang**, Ren-Hung Hwang, "Optimizing Social Welfare of Live Video Streaming Services in Mobile Edge Computing," IEEE Transactions on Mobile Computing, volume 19, number 4, pages 922-934, April 2020.
 
-1.	Yi Zhang, Chih-Yu Wang, Hung-Yu Wei, "Parking Reservation Auction for Parked Vehicle Assistance in Vehicular Fog Computing," IEEE Transactions on Vehicular Technology, volume 68, number 4, pages 3126-3139, April 2019.
+1.	Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Parking Reservation Auction for Parked Vehicle Assistance in Vehicular Fog Computing," IEEE Transactions on Vehicular Technology, volume 68, number 4, pages 3126-3139, April 2019.
 
 1. 	Khurshed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "A Novel Nested Q-Learning Method to Tackle Time-Constrained Competitive Influence Maximization," IEEE Access, volume 7, pages 6337 - 6352, December 2018.
 
@@ -69,9 +68,9 @@ Computing," to appear in IEEE Transactions on Mobile Computing.
 
 
 ### Conference
-1.	Po-Yu Chou, Wei-Yu Chen, Chih-Yu Wang, Ren-Hung Hwang, Wen-Tsuen Chen, "Deep Reinforcement Learning for MEC Streaming with Joint User Association and Resource Management," IEEE ICC, Dublin, Ireland, June 2020.
+1.	Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Deep Reinforcement Learning for MEC Streaming with Joint User Association and Resource Management," IEEE ICC, Dublin, Ireland, June 2020.
 
-2.	Chao-Lun Wu, Te-Chuan Chiu, Chih-Yu Wang, Ai-Chun Pang, "Mobility-Aware Deep Reinforcement Learning with Glimpse Mobility Prediction in Edge Computing," IEEE ICC, Dublin, Ireland, June 2020.
+2.	Chao-Lun Wu, Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, "Mobility-Aware Deep Reinforcement Learning with Glimpse Mobility Prediction in Edge Computing," IEEE ICC, Dublin, Ireland, June 2020.
 
 1. Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Live Video Streaming with Joint User Association and Caching Placement in Mobile Edge Computing," IEEE ICNC, Big Island, Hawaii, USA, February 2020.
 

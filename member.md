@@ -15,21 +15,21 @@ permalink: /member/
 
 Te-Chuan Chiu <theochiu@citi.sinica.edu.tw>
 
-Thieu Quang Tuan <tuanthieu@citi.sinica.edu.tw>
-
 # Research Assistant
 
 ----------------
 
 Chao-Lun Wu <allenwu@citi.sinica.edu.tw>
 
-Fang-Li Kung <marykv1@citi.sinica.edu.tw>
-
-Tung-Chun Chang <tcchang@citi.sinica.edu.tw>
-
 Wei-Cheng Chen <jimmyweicc@citi.sinica.edu.tw>
 
 Wei-Yu Chen <wei8465@citi.sinica.edu.tw>
+
+Ting-Ying Chu <chudawn@citi.sinica.edu.tw>
+
+Miao-Chin Yen <miaochin.yen@citi.sinica.edu.tw>
+
+Li-Chun Su <uziktsa@citi.sinica.edu.tw>
 
 # Student
 
@@ -47,17 +47,21 @@ Cheng-Chih Chao (Department of Electrical Engineering, National Taiwan Universit
 
 Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan University)
 
+## Master
+
+Peggy Sun (Data Science Program, Academia Sinica & National Taiwan University)
+
 ## Intern
 
-Po-Yu Chou (NTHU)
+Po-Yu Chou (Department of Electrical Engineering, National Tsing-Hua University)
 
-Sin-Yuan Huang (NTHU)
 
-Miao-CHin Yen (NTU)
 
 # Alumni
 
 ----------------
+
+Tung-Chun Chang (University of California Irvine)
 
 Szu-Liang Wang (Chinese Academy of Science)
 
