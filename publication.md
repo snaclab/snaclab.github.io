@@ -9,6 +9,8 @@ permalink: /publication/
 
 ### Journal
 
+1. Yi Zhang, Jiun-Hao Liu, **Chih-Yu Wang**, Hung-Yu Wei, "Decomposable Intelligence on Cloud-Edge IoT Framework for Live Video Analytics," to appear in IEEE Internet of Things Journal.
+
 1.	Yuan-Yao Shih, **Chih-Yu Wang**, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
 
 1. Cheng-Chih Chao, **Chih-Yu Wang**, Chia-Han Lee, Hung-Yu Wei, Wen-Tsuen Chen, "Pair Auction and Matching for Resource Allocation in Full- Duplex Cellular Systems," IEEE Transactions on Vehicular Technology, volume 69, number 4, pages 4325-4339, April 2020.
