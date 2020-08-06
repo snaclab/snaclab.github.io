@@ -9,6 +9,8 @@ permalink: /publication/
 
 ### Journal
 
+1. Ren-Hung Hwang, **Chih-Yu Wang**, Jenq Neng Hwang, Yu-Ren Lin, Wei-Yu Chen, "Optimizing Live Layered Video Multicasting over LTE with Mobile Edge Computing," to appear in IEEE Transactions on Vehicular Technology.
+
 1. Yi Zhang, Jiun-Hao Liu, **Chih-Yu Wang**, Hung-Yu Wei, "Decomposable Intelligence on Cloud-Edge IoT Framework for Live Video Analytics," to appear in IEEE Internet of Things Journal.
 
 1.	Yuan-Yao Shih, **Chih-Yu Wang**, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.

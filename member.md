@@ -21,15 +21,17 @@ Te-Chuan Chiu <theochiu@citi.sinica.edu.tw>
 
 Chao-Lun Wu <allenwu@citi.sinica.edu.tw>
 
-Wei-Cheng Chen <jimmyweicc@citi.sinica.edu.tw>
-
 Wei-Yu Chen <wei8465@citi.sinica.edu.tw>
 
 Ting-Ying Chu <chudawn@citi.sinica.edu.tw>
 
 Miao-Chin Yen <miaochin.yen@citi.sinica.edu.tw>
 
-Li-Chun Su <uziktsa@citi.sinica.edu.tw>
+Po-Yu Chou <thomas861205@citi.sinica.edu.tw>
+
+Yu-Cheng Hsiao <hsiao411235@citi.sinica.edu.tw>
+
+Hung-Chun Chen
 
 # Student
 
@@ -41,25 +43,27 @@ Khurshed Ali (TIGP SNHCC)
 
 Lan-Yi Liu (Department of Economics, National Taiwan University)
 
-## Ph.D. (co-advise)
-
-Cheng-Chih Chao (Department of Electrical Engineering, National Taiwan University)
-
-Yi Zhang (Graduate Institute of Communication Engineering, National Taiwan University)
-
 ## Master
 
 Peggy Sun (Data Science Program, Academia Sinica & National Taiwan University)
 
 ## Intern
 
-Po-Yu Chou (Department of Electrical Engineering, National Tsing-Hua University)
+Yu-Ying Chen (Department of Computer Science, National Chiao-Tung University)
 
 
 
 # Alumni
 
 ----------------
+
+Cheng-Chih Chao
+
+Yi Zhang (Xiamen University)
+
+Wei-Cheng Chen (M.S. Program, CMU)
+
+Li-Chun Su (M.S. Program, University of Chicago)
 
 Tung-Chun Chang (University of California Irvine)
 
