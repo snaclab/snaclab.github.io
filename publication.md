@@ -9,11 +9,11 @@ permalink: /publication/
 
 ### Journal
 
-1. Ren-Hung Hwang, **Chih-Yu Wang**, Jenq Neng Hwang, Yu-Ren Lin, Wei-Yu Chen, "Optimizing Live Layered Video Multicasting over LTE with Mobile Edge Computing," to appear in IEEE Transactions on Vehicular Technology.
+1.	Yuan-Yao Shih, Chih-Yu Wang, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
 
-1. Yi Zhang, Jiun-Hao Liu, **Chih-Yu Wang**, Hung-Yu Wei, "Decomposable Intelligence on Cloud-Edge IoT Framework for Live Video Analytics," to appear in IEEE Internet of Things Journal.
+2.	Ren-Hung Hwang, Chih-Yu Wang, Jenq Neng Hwang, Yu-Ren Lin, Wei-Yu Chen, "Optimizing Live Layered Video Multicasting over LTE with Mobile Edge Computing," to appear in IEEE Transactions on Vehicular Technology.
 
-1.	Yuan-Yao Shih, **Chih-Yu Wang**, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
+3.	Yi Zhang, Jiun-Hao Liu, Chih-Yu Wang, Hung-Yu Wei, "Decomposable Intelligence on Cloud-Edge IoT Framework for Live Video Analytics," IEEE Internet of Things Journal, volume 7, number 9, pages 8860-8873, September 2020.
 
 1. Cheng-Chih Chao, **Chih-Yu Wang**, Chia-Han Lee, Hung-Yu Wei, Wen-Tsuen Chen, "Pair Auction and Matching for Resource Allocation in Full- Duplex Cellular Systems," IEEE Transactions on Vehicular Technology, volume 69, number 4, pages 4325-4339, April 2020.
 
@@ -72,6 +72,8 @@ permalink: /publication/
 
 
 ### Conference
+1. Khurshed Ali, **Chih-Yu Wang**, Mi-Yen Yeh, Yi-Shin Chen, "Addressing Competitive Influence Maximization on Unknown Social Network with Deep Reinforcement Learning," International Conference on Advances in Social Networks Analysis and Mining (ASONAM), December 2020.
+
 1.	Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Deep Reinforcement Learning for MEC Streaming with Joint User Association and Resource Management," IEEE ICC, Dublin, Ireland, June 2020.
 
 2.	Chao-Lun Wu, Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, "Mobility-Aware Deep Reinforcement Learning with Glimpse Mobility Prediction in Edge Computing," IEEE ICC, Dublin, Ireland, June 2020.
